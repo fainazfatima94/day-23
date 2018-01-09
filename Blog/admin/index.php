@@ -29,7 +29,7 @@
         <div class="col-sm-6 mx-auto">
 
             <div class="card">
-                <p>Admin Panel</p>
+                <p align="center">Admin Panel</p>
                 <div class="card-body">
                     <h3><?php echo $message;?></h3>
                     <form action="" method="post">
